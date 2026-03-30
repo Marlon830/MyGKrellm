@@ -1,0 +1,6 @@
+*.o
+MyGKrellm
+*.gcda
+*.gcno
+.vscode/
+src/Main.cpp
